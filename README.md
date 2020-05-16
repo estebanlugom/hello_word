@@ -1,2 +1,2 @@
-# hello_word
-This reposytori is my proof
+# hello_world
+This reposytori is my proof for inicialiti in GhitHub
